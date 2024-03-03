@@ -1,1 +1,1 @@
-# Alzheimer-dataset
+# Alzheimer-s-dataset
