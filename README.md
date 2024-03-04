@@ -1,2 +1,0 @@
-# Alzheimer
-# Alzheimer-dataset
